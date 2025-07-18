@@ -4,7 +4,7 @@
 
 ## Download
 
-Download at [www.TrimShot.online](https://trimshot.online)
+Download at [www.trimshot.online](https://trimshot.online)
 
 ## Overview
 
@@ -12,7 +12,7 @@ Download at [www.TrimShot.online](https://trimshot.online)
 
 ## Installation
 
-Download the TrimShot_setup.exe installer from [TrimShot website](https://trimshot.online).
+Download the TrimShot_setup.exe installer from [www.trimshot.online](https://trimshot.online).
 Run TrimShot_setup.exe and follow the on-screen instructions to complete installation.
 After installation, launch TrimShot from your Start menu or desktop shortcut.
 
