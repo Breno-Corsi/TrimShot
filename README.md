@@ -1,6 +1,6 @@
 ﻿# TrimShot
 
-![TrimShot Logo](logos/TrimShot-256x256.ico)
+![TrimShot Logo](logos/TrimShot-64x64.ico)
 
 ## Download
 
