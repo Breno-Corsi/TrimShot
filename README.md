@@ -4,7 +4,7 @@
 
 ## Download
 
-Download at [www.TrimShot.com](https://trimshot.online)
+Download at [www.TrimShot.online](https://trimshot.online)
 
 ## Overview
 
