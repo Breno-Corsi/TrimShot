@@ -1,3 +1,19 @@
+<table>
+<tr>
+<td>
+
+![TrimShot Logo](logos/TrimShot-24x24.ico)
+
+</td>
+<td>
+
+## Overview
+
+TrimShot is an open-source software designed to simplify the process of capturing screenshots from your desktop and automatically removing the background. With TrimShot, you can easily take prints of your screen, and the software will process the images to eliminate any unwanted backgrounds, allowing you to copy the clean images directly to your clipboard for easy use.
+
+</td>
+</tr>
+</table>
 ﻿# TrimShot
 
 ![TrimShot Logo](logos/TrimShot-24x24.ico)
@@ -5,10 +21,6 @@
 ## Download
 
 Download at [www.trimshot.online](https://trimshot.online)
-
-## Overview
-
- TrimShot is an open-source software designed to simplify the process of capturing screenshots from your desktop and automatically removing the background. With TrimShot, you can easily take prints of your screen, and the software will process the images to eliminate any unwanted backgrounds, allowing you to copy the clean images directly to your clipboard for easy use.
 
 ## Installation
 
