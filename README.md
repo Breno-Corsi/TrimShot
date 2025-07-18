@@ -66,4 +66,5 @@ If you encounter any issues or have questions, please open an issue in the GitHu
 ## Acknowledgments
 
 - Special thanks to the libraries and tools that made this project possible.
-- Also thanks to [Lucas Janning](#https://github.com/lucasjanning) for additional support.
+- Thanks to [Lucas Janning](#https://github.com/lucasjanning) for additional support.
+- Thanks to [not_Doctor](#https://discord.com) for the logo design.
