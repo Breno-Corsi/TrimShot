@@ -1,3 +1,5 @@
+﻿# TrimShot
+
 <table>
 <tr>
 <td>
@@ -14,9 +16,6 @@ TrimShot is an open-source software designed to simplify the process of capturin
 </td>
 </tr>
 </table>
-﻿# TrimShot
-
-![TrimShot Logo](logos/TrimShot-24x24.ico)
 
 ## Download
 
