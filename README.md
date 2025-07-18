@@ -7,7 +7,7 @@
 </td>
 <td valign="middle" style="padding-top: 0; margin-top: 0;">
 
-**TrimShot** is an open-source software designed to simplify the process of **capturing screenshots*i from your desktop and **automatically removing the background**. With TrimShot, you can easily take prints of your screen, and the software will process the images to eliminate any unwanted backgrounds, allowing you to copy the clean images directly to your clipboard for easy use.
+**TrimShot** is an open-source software designed to simplify the process of **capturing screenshots** from your desktop and **automatically removing the background**. With TrimShot, you can easily take prints of your screen, and the software will process the images to eliminate any unwanted backgrounds, allowing you to copy the clean images directly to your clipboard for easy use.
 
 </td>
 </tr>
