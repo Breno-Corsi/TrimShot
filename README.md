@@ -2,17 +2,18 @@
 
 <table>
 <tr>
-<td valign="top" width="80">
-<img src="logos/TrimShot-64x64.ico" alt="TrimShot Logo" width="64" style="vertical-align: middle; margin-right: 16px;">
+<td valign="middle" width="128" style="padding-top: 8px;">
+<img src="logos/TrimShot-64x64.ico" alt="TrimShot Logo" width="200">
 </td>
-<td valign="top">
+<td valign="middle" style="padding-top: 0; margin-top: 0;">
 
-## Overview
 TrimShot is an open-source software designed to simplify the process of capturing screenshots from your desktop and automatically removing the background. With TrimShot, you can easily take prints of your screen, and the software will process the images to eliminate any unwanted backgrounds, allowing you to copy the clean images directly to your clipboard for easy use.
 
 </td>
 </tr>
 </table>
+
+<div style="margin-top: 0px;"></div>
 
 ## Download
 
