@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-![TrimShot Logo](logos/TrimShot-24x24.ico)
+![TrimShot Logo](logos/TrimShot-64x64.ico)
 
 </td>
 <td>
