@@ -1,9 +1,10 @@
-﻿# TrimShot
-
-<img src="logos/TrimShot-64x64.ico"
+﻿<img src="logos/TrimShot-64x64.ico"
      alt="TrimShot Logo"
      width="64"
      style="float: left; margin-right: 1rem; margin-bottom: 1rem;" />
+
+# TrimShot
+
 
 ## Overview
 
