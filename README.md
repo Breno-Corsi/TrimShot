@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td valign="top" width="80">
-<img src="logos/TrimShot-64x64.ico" alt="TrimShot Logo" width="64" style="vertical-align: middle; margin-right: 64px;">
+<img src="logos/TrimShot-64x64.ico" alt="TrimShot Logo" width="64" style="vertical-align: middle; margin-right: 16px;">
 </td>
 <td valign="top">
 
