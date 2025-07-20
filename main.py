@@ -81,6 +81,7 @@ def main():
         return
 
     image = removeBackground()
+    sleep(0.5)
     clipboardCopyImage(image)
 
 
@@ -97,4 +98,4 @@ createSystray()
 # - Emulate "Expand selection" photoshop's behavior
 # - Exlpore possibilities of AI upscaling
 
-# pyinstaller --noconsole --clean --onefile --add-data "config.ini;." --add-data "logos/TrimShot-24x24.ico;logos" --icon=logos/TrimShot-64x64.ico main.py
+# pyinstaller --noconsole --clean --onefile --name TrimShot --add-data "config.ini;." --add-data "logos/TrimShot-24x24.ico;logos" --icon=logos/TrimShot-64x64.ico main.py
