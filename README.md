@@ -7,7 +7,7 @@
 </td>
 <td valign="middle" style="padding-top: 0; margin-top: 0;">
 
-**TrimShot** is an open-source software designed to simplify the process of **capturing screenshots** from your desktop and **automatically removing the background**. With TrimShot, you can easily take prints of your screen, and the software will process the images to eliminate any unwanted backgrounds, allowing you to copy the clean images directly to your clipboard for easy use.
+**TrimShot** é um software open-source projetado para simplificar o processo de **captura de tela** do seu desktop e **remoção automática do fundo**. Com o TrimShot, você pode facilmente tirar capturas da tela, e o software processará as imagens para eliminar qualquer fundo indesejado, permitindo copiar as imagens limpas diretamente para a área de transferência.
 
 </td>
 </tr>
@@ -17,63 +17,63 @@
 
 ## Download
 
-Download at [www.trimshot.online](https://trimshot.online).
+Baixe em [www.trimshot.online](https://trimshot.online).
 
 ## Installation
 
-Download the TrimShot_setup.exe installer from [www.trimshot.online](https://trimshot.online).
-Run TrimShot_setup.exe and follow the on-screen instructions to complete installation.
-After installation, launch TrimShot from your Start menu or desktop shortcut.
+Baixe o instalador TrimShot_setup.exe de [www.trimshot.online](https://trimshot.online).
+Execute o TrimShot_setup.exe e siga as instruções na tela para concluir a instalação.
+Após a instalação, abra o TrimShot pelo menu Iniciar ou atalho na área de trabalho.
 
 ## Usage
 
-- On first startup only, TrimShot will initialize its background-removal engine.
-- Please wait up to 30 seconds for this one-time setup to complete.
+- Apenas na primeira inicialização, o TrimShot irá configurar o mecanismo de remoção de fundo.
+- Aguarde até 30 segundos para a conclusão dessa configuração única.
 
-1. Press **Alt + C** to begin a screenshot.
-2. Click and drag to select the area you want to capture.
-3. After you release the mouse button, TrimShot will remove the background automatically and copy the result to your clipboard.
-4. Paste anywhere using **Ctrl + V**.
-5. Press **Alt + F** to close TrimShot (optional—keep it running for multiple captures).
+1. Pressione **Alt + C** para iniciar uma captura.
+2. Clique e arraste para selecionar a área desejada.
+3. Ao soltar o botão do mouse, o TrimShot removerá automaticamente o fundo e copiará o resultado para a área de transferência.
+4. Cole em qualquer lugar usando **Ctrl + V**.
+5. Pressione **Alt + F** para fechar o TrimShot (opcional — mantenha-o executando para múltiplas capturas).
 
-Tip: To customize the hotkeys, open the config.ini file in the installation folder and edit the StartCapture, CloseApp, and other key bindings as needed (needs recompiling).
+Dica: Para customizar os atalhos, abra o arquivo config.ini na pasta de instalação e edite as teclas StartCapture, CloseApp e outras conforme necessário (requer recompilação).
 
-## Features
+## Funcionalidades
 
-- **User-Friendly**: The installation process is as straightforward as possible, reflecting the user-friendly nature of the software.
-- **Open Source**: TrimShot is open-source, wich means that users can contribute to its development and customize it to their own needs.
-- **Automatic Background Removal**: TrimShot uses algorithms to detect and remove backgrounds from your screenshots.
-- **Clipboard Integration**: Once the background is removed, the processed image is copied directly to your clipboard for quick access.
+- **Fácil de Usar**: A instalação é simples, refletindo a proposta amigável do software.
+- **Open Source**: Por ser open-source, os usuários podem contribuir e personalizar conforme suas necessidades.
+- **Remoção Automática de Fundo**: TrimShot utiliza algoritmos para detectar e remover fundos de capturas de tela.
+- **Integração com Área de Transferência**: Após processar a imagem, ela é copiada diretamente para a área de transferência para uso rápido.
 
-## Contributing
+## Contribuindo
 
-We welcome contributions to TrimShot! If you would like to contribute, please follow these steps:
+Contribuições são bem-vindas! Caso queira participar:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your branch to your forked repository.
-5. Submit a pull request detailing your changes.
+1. Faça um fork do repositório.
+2. Crie uma branch para sua feature ou correção.
+3. Faça suas alterações e commit.
+4. Envie sua branch para seu repositório forkado.
+5. Abra um pull request descrevendo suas mudanças.
 
-Additionally, if you encounter any issues or have suggestions for improvements, please feel free to open an issue in the repository. We appreciate your feedback and look forward to your contributions!
+Se encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue no repositório. Agradecemos seu feedback!
 
-### Clone TrimShot Repository
+### Clonar o Repositório TrimShot
 
 ```bash
 git clone https://github.com/Breno-Corsi/TrimShot.git
 cd TrimShot
 ```
 
-## License
+## Licença
 
-TrimShot is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the software as per the terms of the license.
+TrimShot é licenciado sob a [MIT License](LICENSE). Sinta-se livre para usar, modificar e distribuir conforme os termos da licença.
 
-## Support
+## Suporte
 
-If you encounter any issues or have questions, please open an issue in the GitHub repository.
+Se tiver dúvidas ou encontrar qualquer problema, abra uma issue no repositório GitHub.
 
-## Acknowledgments
+## Agradecimentos
 
-- Special thanks to the libraries and tools that made this project possible.
-- Thanks to [Lucas Janning](https://github.com/lucasjanning) for additional support.
-- Thanks to [not_Doctor](https://discord.com) for the logo design.
+- Agradecimentos especiais às bibliotecas e ferramentas que tornaram este projeto possível.
+- Obrigado a [Lucas Janning](https://github.com/lucasjanning) pelo suporte adicional.
+- Obrigado a [not_Doctor](https://discord.com) pelo design do logo.
